@@ -1,0 +1,3 @@
+fr_CA-ak-cur.lite.res	7cbd1e80c312b849717040daa9e60330	526467
+fr_CA.lang	7bb97779251be1596df69bde9ad6368e	4125
+fr_CA-lk-text.lite.res	e775e02905e657908acaee26774d6cd4	2886560

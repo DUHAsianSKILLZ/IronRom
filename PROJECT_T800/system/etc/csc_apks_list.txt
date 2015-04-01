@@ -1,0 +1,2 @@
+/system/app/MILK_US/MILK_US.apk
+/system/app/YosemiteTAB_PROD2.5_xlarge_SO/YosemiteTAB_PROD2.5_xlarge_SO.apk
