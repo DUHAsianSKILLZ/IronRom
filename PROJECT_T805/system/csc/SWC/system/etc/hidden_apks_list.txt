@@ -1,0 +1,6 @@
+/hidden/app/Amazon_Kindle_4.7.0.156.apk
+/hidden/app/amazonmusic-stub-1.0-signed-zipaligned.apk
+/hidden/app/Deezer-4.3.0.9-google_play.apk
+/hidden/app/deindeal-stub-release.apk
+/hidden/app/KindleForAndroid-Stub-0.9.13.apk
+/hidden/app/SwisscomCockpit_V1.0.2_release_signed.apk

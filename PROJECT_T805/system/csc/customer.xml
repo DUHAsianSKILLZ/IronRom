@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CustomerData>
+  <GeneralInfo>
+    <CSCEdition>ED0001</CSCEdition>
+    <Country>Slovenia</Country>
+    <CountryISO>SI</CountryISO>
+    <Region>EUR</Region>
+    <SalesCode>SIM</SalesCode>
+    <NbNetworkInfo>1</NbNetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>29340</MCCMNC>
+      <NetworkName>Si.mobil</NetworkName>
+    </NetworkInfo>
+  </GeneralInfo>
+  <Settings>
+    <Main>
+      <Network>
+        <NbFastDormancy>4</NbFastDormancy>
+        <FastDormancy>
+          <NetworkName>Si.mobil</NetworkName>
+          <FastDormancyEnableStatus>off</FastDormancyEnableStatus>
+          <LCDStatus>on</LCDStatus>
+        </FastDormancy>
+        <FastDormancy>
+          <NetworkName>Si.mobil</NetworkName>
+          <FastDormancyEnableStatus>on</FastDormancyEnableStatus>
+          <TimeoutValue>5</TimeoutValue>
+          <LCDStatus>off</LCDStatus>
+        </FastDormancy>
+        <FastDormancy>
+          <NetworkName>Si.mobil</NetworkName>
+          <FastDormancyEnableStatus>off</FastDormancyEnableStatus>
+          <LCDStatus>on</LCDStatus>
+          <Version>rel8</Version>
+        </FastDormancy>
+        <FastDormancy>
+          <NetworkName>Si.mobil</NetworkName>
+          <FastDormancyEnableStatus>on</FastDormancyEnableStatus>
+          <TimeoutValue>5</TimeoutValue>
+          <LCDStatus>off</LCDStatus>
+          <Version>rel8</Version>
+        </FastDormancy>
+        <NbWbAmr>1</NbWbAmr>
+        <WbAmr>
+          <NetworkName>Si.mobil</NetworkName>
+          <WbAmrCodec>on</WbAmrCodec>
+        </WbAmr>
+      </Network>
+      <Sound>
+        <ExtraSound>
+          <ConnectTone>on</ConnectTone>
+        </ExtraSound>
+      </Sound>
+      <Phone>
+        <DefLanguage>sl_SI</DefLanguage>
+        <DefLanguageNoSIM>sl_SI</DefLanguageNoSIM>
+        <DateTimeFormat>
+          <DateFormat>ddmmyyyy</DateFormat>
+          <TimeFormat>24h</TimeFormat>
+        </DateTimeFormat>
+      </Phone>
+      <Security />
+    </Main>
+    <Messages>
+      <NbVoicemail>1</NbVoicemail>
+      <Voicemail>
+        <NetworkName>default</NetworkName>
+        <TelNum>444</TelNum>
+      </Voicemail>
+      <SMS>
+        <MaxRecipient>20</MaxRecipient>
+      </SMS>
+      <MMS>
+        <MmsSending>
+          <ReqDeliveryRep>on</ReqDeliveryRep>
+          <ReqReadRep>off</ReqReadRep>
+          <MessageSize>300</MessageSize>
+          <CreationMode>restricted</CreationMode>
+        </MmsSending>
+        <MmsReceiving>
+          <Home>auto</Home>
+          <Roaming>auto</Roaming>
+        </MmsReceiving>
+      </MMS>
+    </Messages>	<ActiveSync>      <EasEmail>        <SizeEmail>50k</SizeEmail>      </EasEmail>		</ActiveSync>		
+    <Browser>
+      <NbBookmark>11</NbBookmark>
+      <Bookmark>
+        <NetworkName>Si.mobil</NetworkName>
+        <BookmarkName>Vodafone live!</BookmarkName>
+        <URL>http://live.vodafone.com</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>Si.mobil</NetworkName>
+        <BookmarkName>Chat</BookmarkName>
+        <URL>http://live.vodafone.com/mim</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>Si.mobil</NetworkName>
+        <BookmarkName>Mail</BookmarkName>
+        <URL>http://live.vodafone.com/um</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>Si.mobil</NetworkName>
+        <BookmarkName>Šport</BookmarkName>
+        <URL>http://live.vodafone.com/sport</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>Si.mobil</NetworkName>
+        <BookmarkName>Iskanje</BookmarkName>
+        <URL>http://live.vodafone.com/search</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>Si.mobil</NetworkName>
+        <BookmarkName>Slike</BookmarkName>
+        <URL>http://live.vodafone.com/picturedownload</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>Si.mobil</NetworkName>
+        <BookmarkName>Novice</BookmarkName>
+        <URL>http://live.vodafone.com/news</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>Si.mobil</NetworkName>
+        <BookmarkName>Moj live!</BookmarkName>
+        <URL>http://live.vodafone.com/myvodafone</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>Si.mobil</NetworkName>
+        <BookmarkName>Glasba</BookmarkName>
+        <URL>http://live.vodafone.com/music</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>Si.mobil</NetworkName>
+        <BookmarkName>Galerija</BookmarkName>
+        <URL>http://live.vodafone.com/album</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>Si.mobil</NetworkName>
+        <BookmarkName>Igre</BookmarkName>
+        <URL>http://live.vodafone.com/games</URL>
+      </Bookmark>
+<NbQuickAccess>8</NbQuickAccess><QuickAccess>        <Index>1</Index>        <QATitle>Yahoo</QATitle>        <QAURL>https://www.yahoo.com/?tsrc=samsung_qa</QAURL>      </QuickAccess>      <QuickAccess>        <Index>2</Index>        <QATitle>Google</QATitle>        <QAURL>http://www.google.com/</QAURL>      </QuickAccess>      <QuickAccess>        <Index>3</Index>        <QATitle>Youtube</QATitle>        <QAURL>http://m.youtube.com/</QAURL>      </QuickAccess>      <QuickAccess>        <Index>4</Index>        <QATitle>TripAdvisor</QATitle>        <QAURL>http://www.tripadvisor.com/?m=22099</QAURL>      </QuickAccess>      <QuickAccess>        <Index>5</Index>        <QATitle>Facebook</QATitle>        <QAURL>http://www.facebook.com/</QAURL>      </QuickAccess>      <QuickAccess>        <Index>6</Index>        <QATitle>Wikipedia</QATitle>        <QAURL>http://m.wikipedia.org/</QAURL>      </QuickAccess>      <QuickAccess>        <Index>7</Index>        <QATitle>Twitter</QATitle>        <QAURL>https://mobile.twitter.com/</QAURL>      </QuickAccess>      <QuickAccess>        <Index>8</Index>        <QATitle>BBC</QATitle>        <QAURL>http://m.bbc.com/news/world/europe/</QAURL>      </QuickAccess>    </Browser>
+    <Connections>
+      <NbProfileHandle>1</NbProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>2</NbNetProfile>
+        <NetworkName>Si.mobil</NetworkName>
+        <ProfBrowser>Vodafone live!</ProfBrowser>
+        <ProfMMS>Si.mobil MMS</ProfMMS>
+      </ProfileHandle>
+      <NbProfile>2</NbProfile>
+      <Profile>
+        <NetworkName>Si.mobil</NetworkName>
+        <Editable>no</Editable>
+        <ProfileName>Vodafone live!</ProfileName>
+        <URL>http://live.simobil.si</URL>
+        <Auth>normal</Auth>
+        <Protocol>http</Protocol>
+        <MTUSize>1500</MTUSize>
+        <Proxy>
+          <EnableFlag>on</EnableFlag>
+          <ServAddr>080.095.224.017</ServAddr>
+          <Port>9201</Port>
+        </Proxy>
+        <PSparam>
+          <APN>internet.simobil.si</APN>
+          <UserId>simobil</UserId>
+          <Password>internet</Password>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>Si.mobil</NetworkName>
+        <Editable>no</Editable>
+        <ProfileName>Si.mobil MMS</ProfileName>
+        <URL>http://mmc/</URL>
+        <Auth>normal</Auth>
+        <Protocol>http</Protocol>
+        <MTUSize>1500</MTUSize>
+        <Proxy>
+          <EnableFlag>on</EnableFlag>
+          <ServAddr>080.095.224.046</ServAddr>
+          <Port>9201</Port>
+        </Proxy>
+        <PSparam>
+          <APN>mms.simobil.si</APN>
+          <UserId>simobil</UserId>
+          <Password>internet</Password>
+        </PSparam>
+      </Profile>
+    </Connections>
+  </Settings>
+</CustomerData>

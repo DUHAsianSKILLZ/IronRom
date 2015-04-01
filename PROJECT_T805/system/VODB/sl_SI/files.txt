@@ -1,0 +1,3 @@
+sl_SI-ak-cur.lite.res	a4a02d8423d13f4ee7ad33fa69ff3883	507303
+sl_SI.lang	32917335797b58b04956e6a8f5c61601	4125
+sl_SI-lk-text.lite.res	45ca71342a50a6989f23a7a340db4b3a	4073792

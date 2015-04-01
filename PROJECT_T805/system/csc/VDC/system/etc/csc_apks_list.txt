@@ -1,0 +1,2 @@
+/system/app/ec26_signed/ec26_signed.apk
+/system/priv-app/ap_Vodafone_Updates_v5.4.10_Samsung_signed/ap_Vodafone_Updates_v5.4.10_Samsung_signed.apk

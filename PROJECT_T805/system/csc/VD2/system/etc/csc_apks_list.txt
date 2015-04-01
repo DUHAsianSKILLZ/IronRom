@@ -1,0 +1,3 @@
+/system/app/ec26_signed/ec26_signed.apk
+/system/priv-app/ap_Vodafone_Updates_v5.4.10_Samsung_signed/ap_Vodafone_Updates_v5.4.10_Samsung_signed.apk
+/system/priv-app/Discover-3.0.13GA_AndroidVFSigned_zipaligned/Discover-3.0.13GA_AndroidVFSigned_zipaligned.apk

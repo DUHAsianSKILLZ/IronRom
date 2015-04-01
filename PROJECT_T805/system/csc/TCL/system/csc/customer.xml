@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CustomerData>
+  <GeneralInfo>
+    <CSCEdition>ED0001</CSCEdition>
+    <Country>Portugal</Country>
+    <CountryISO>PT</CountryISO>
+    <Region>EUR</Region>
+    <SalesCode>TCL</SalesCode>
+    <NbNetworkInfo>1</NbNetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>26801</MCCMNC>
+      <NetworkName>vodafone P</NetworkName>
+    </NetworkInfo>
+  </GeneralInfo>
+  <Settings>
+    <Main>
+      <Security>
+        <NbNetworkLock>1</NbNetworkLock>
+        <NetworkLock>26801</NetworkLock>
+      </Security>
+      <Network>
+        <NbFastDormancy>4</NbFastDormancy>
+        <FastDormancy>
+          <NetworkName>vodafone P</NetworkName>
+          <FastDormancyEnableStatus>off</FastDormancyEnableStatus>
+          <LCDStatus>on</LCDStatus>
+        </FastDormancy>
+        <FastDormancy>
+          <NetworkName>vodafone P</NetworkName>
+          <FastDormancyEnableStatus>on</FastDormancyEnableStatus>
+          <TimeoutValue>5</TimeoutValue>
+          <LCDStatus>off</LCDStatus>
+        </FastDormancy>
+        <FastDormancy>
+          <NetworkName>vodafone P</NetworkName>
+          <FastDormancyEnableStatus>off</FastDormancyEnableStatus>
+          <LCDStatus>on</LCDStatus>
+          <Version>rel8</Version>
+        </FastDormancy>
+        <FastDormancy>
+          <NetworkName>vodafone P</NetworkName>
+          <FastDormancyEnableStatus>on</FastDormancyEnableStatus>
+          <TimeoutValue>5</TimeoutValue>
+          <LCDStatus>off</LCDStatus>
+          <Version>rel8</Version>
+        </FastDormancy>
+        <NbWbAmr>1</NbWbAmr>
+        <WbAmr>
+          <NetworkName>vodafone P</NetworkName>
+          <WbAmrCodec>on</WbAmrCodec>
+        </WbAmr>
+      </Network>
+      <Sound>
+        <ExtraSound>
+          <ConnectTone>off</ConnectTone>
+        </ExtraSound>
+      </Sound>
+      <Phone>
+        <DefLanguage>pt_PT</DefLanguage>
+        <DefLanguageNoSIM>pt_PT</DefLanguageNoSIM>
+        <DateTimeFormat>
+          <DateFormat>ddmmyyyy</DateFormat>
+          <TimeFormat>24h</TimeFormat>
+        </DateTimeFormat>
+      </Phone>
+    </Main>
+    <Messages>
+      <NbVoicemail>1</NbVoicemail>
+      <Voicemail>
+        <NetworkName>vodafone P</NetworkName>
+        <TelNum>123</TelNum>
+      </Voicemail>
+      <SMS>
+        <MsgTypeThreshold>
+          <ThresholdValue>5</ThresholdValue>
+          <ThresholdType>pagecount</ThresholdType>
+        </MsgTypeThreshold>
+        <MaxRecipient>20</MaxRecipient>
+        <CharSupport>gsmalpha</CharSupport>
+      </SMS>
+      <MMS>
+        <MmsSending>
+          <ReqDeliveryRep>off</ReqDeliveryRep>
+          <ReqReadRep>off</ReqReadRep>
+          <MessageSize>300</MessageSize>
+          <CreationMode>free</CreationMode>
+        </MmsSending>
+        <MmsReceiving>
+          <Home>auto</Home>
+          <Roaming>auto</Roaming>
+        </MmsReceiving>
+      </MMS>
+      <Email>
+        <EmailReceiving>
+          <KeepServer>on</KeepServer>
+        </EmailReceiving>
+        <NbAccount>5</NbAccount>
+        <Account>
+          <NetworkName>vodafone P</NetworkName>
+          <AccountName>Gmail</AccountName>
+          <EmailAddr>@gmail.com</EmailAddr>
+          <LoginType>domain_type</LoginType>
+          <Incoming>
+            <MailboxType>pop3</MailboxType>
+            <ServAddr>pop.gmail.com</ServAddr>
+            <Port>995</Port>
+            <Secure>ssl</Secure>
+          </Incoming>
+          <Outgoing>
+            <ServAddr>smtp.gmail.com</ServAddr>
+            <Port>465</Port>
+            <SmtpAuth>on</SmtpAuth>
+            <Secure>ssl</Secure>
+          </Outgoing>
+        </Account>
+        <Account>
+          <NetworkName>vodafone P</NetworkName>
+          <AccountName>Sapo</AccountName>
+          <EmailAddr>@sapo.pt</EmailAddr>
+          <LoginType>domain_type</LoginType>
+          <Incoming>
+            <MailboxType>pop3</MailboxType>
+            <ServAddr>pop.sapo.pt</ServAddr>
+            <Port>110</Port>
+            <Secure>off</Secure>
+          </Incoming>
+          <Outgoing>
+            <ServAddr>smtp.sapo.pt</ServAddr>
+            <Port>25</Port>
+            <SmtpAuth>on</SmtpAuth>
+          </Outgoing>
+        </Account>
+        <Account>
+          <NetworkName>vodafone P</NetworkName>
+          <AccountName>Vodafone Mail</AccountName>
+          <EmailAddr>@vodafone.pt</EmailAddr>
+          <LoginType>domain_type</LoginType>
+          <Incoming>
+            <MailboxType>pop3</MailboxType>
+            <ServAddr>mail.vodafone.pt</ServAddr>
+            <Port>110</Port>
+            <Secure>off</Secure>
+          </Incoming>
+          <Outgoing>
+            <ServAddr>mail.vodafone.pt</ServAddr>
+            <Port>25</Port>
+            <SmtpAuth>on</SmtpAuth>
+            <Secure>off</Secure>
+          </Outgoing>
+        </Account>
+        <Account>
+          <NetworkName>vodafone P</NetworkName>
+          <AccountName>IOL</AccountName>
+          <EmailAddr>@iol.pt</EmailAddr>
+          <LoginType>domain_type</LoginType>
+          <Incoming>
+            <MailboxType>imap4</MailboxType>
+            <ServAddr>imap.iol.pt</ServAddr>
+            <Port>143</Port>
+            <Secure>off</Secure>
+          </Incoming>
+          <Outgoing>
+            <ServAddr>smtp.vodafone.pt</ServAddr>
+            <Port>25</Port>
+            <SmtpAuth>on</SmtpAuth>
+            <Secure>off</Secure>
+          </Outgoing>
+        </Account>
+        <Account>
+          <NetworkName>vodafone P</NetworkName>
+          <AccountName>Netcabo</AccountName>
+          <EmailAddr>@netcabo.pt</EmailAddr>
+          <LoginType>domain_type</LoginType>
+          <Incoming>
+            <MailboxType>pop3</MailboxType>
+            <ServAddr>pop.netcabo.pt</ServAddr>
+            <Port>110</Port>
+            <Secure>off</Secure>
+          </Incoming>
+          <Outgoing>
+            <ServAddr>smtp.netcabo.pt</ServAddr>
+            <Port>25</Port>
+            <SmtpAuth>on</SmtpAuth>
+            <Secure>off</Secure>
+          </Outgoing>
+        </Account>
+      </Email>
+    </Messages>			<ActiveSync>      <EasEmail>        <SizeEmail>50k</SizeEmail>      </EasEmail>		</ActiveSync>
+    <NbFOTA>1</NbFOTA>
+    <FOTA>
+      <NetworkName>vodafone P</NetworkName>
+      <FotaBearer>wifi_dedicated</FotaBearer>
+    </FOTA>
+    <Browser>
+      <NbBookmark>4</NbBookmark>
+      <Bookmark>
+        <NetworkName>vodafone P</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>Vodafone Cloud</BookmarkName>
+        <URL>http://cloud.vodafone.pt</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>vodafone P</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>Vodafone Music</BookmarkName>
+        <URL>http://www.vodafonemusic.com</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>vodafone P</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>Vodafone Contactos</BookmarkName>
+        <URL>http://vodafonecontactos.vodafone.pt</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>vodafone P</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>Vodafone Protect</BookmarkName>
+        <URL>http://protect.vodafone.pt</URL>
+      </Bookmark><NbQuickAccess>8</NbQuickAccess>      <QuickAccess>        <Index>1</Index>        <QATitle>Yahoo</QATitle>        <QAURL>https://www.yahoo.com/?tsrc=samsung_qa</QAURL>      </QuickAccess>      <QuickAccess>        <Index>2</Index>        <QATitle>Google</QATitle>        <QAURL>http://www.google.com/</QAURL>      </QuickAccess>      <QuickAccess>        <Index>3</Index>        <QATitle>Youtube</QATitle>        <QAURL>http://m.youtube.com/</QAURL>      </QuickAccess>      <QuickAccess>        <Index>4</Index>        <QATitle>TripAdvisor</QATitle>        <QAURL>http://www.tripadvisor.com/?m=22099</QAURL>      </QuickAccess>      <QuickAccess>        <Index>5</Index>        <QATitle>Facebook</QATitle>        <QAURL>http://www.facebook.com/</QAURL>      </QuickAccess>      <QuickAccess>        <Index>6</Index>        <QATitle>Wikipedia</QATitle>        <QAURL>http://m.wikipedia.org/</QAURL>      </QuickAccess>      <QuickAccess>        <Index>7</Index>        <QATitle>Twitter</QATitle>        <QAURL>https://mobile.twitter.com/</QAURL>      </QuickAccess>      <QuickAccess>        <Index>8</Index>        <QATitle>BBC</QATitle>        <QAURL>http://m.bbc.com/news/world/europe/</QAURL>      </QuickAccess>
+    </Browser>
+    <GPS>
+      <NbAGPS>1</NbAGPS>
+      <AGPS>
+        <TLS>on</TLS>
+        <ServAddr>supl.vodafone.com</ServAddr>
+        <Port>7275</Port>
+        <SuplVer>2.0</SuplVer>
+      </AGPS>
+    </GPS>
+    <Connections>
+      <NbProfileHandle>1</NbProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>3</NbNetProfile>
+        <NetworkName>vodafone P</NetworkName>
+        <ProfBrowser>Vodafone Net2</ProfBrowser>
+        <ProfMMS>Vodafone mms</ProfMMS>
+        <ProfIntSharing>Internet vodafone</ProfIntSharing>
+      </ProfileHandle>
+      <NbProfile>3</NbProfile>
+      <Profile>
+        <NetworkName>vodafone P</NetworkName>
+        <Editable>no</Editable>
+        <ProfileName>Vodafone mms</ProfileName>
+        <URL>http://mms.vodafone.pt/servlets/mms</URL>
+        <Auth>none</Auth>
+        <Protocol>http</Protocol>
+        <MTUSize>1500</MTUSize>
+        <Proxy>
+          <EnableFlag>on</EnableFlag>
+          <ServAddr>iproxy.vodafone.pt</ServAddr>
+          <Port>80</Port>
+        </Proxy>
+        <PSparam>
+          <APN>net2.vodafone.pt</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>vodafone P</NetworkName>
+        <Editable>no</Editable>
+        <ProfileName>Internet vodafone</ProfileName>
+        <Auth>normal</Auth>
+        <Protocol>other</Protocol>
+        <MTUSize>1500</MTUSize>
+        <Proxy>
+          <EnableFlag>off</EnableFlag>
+        </Proxy>
+        <PSparam>
+          <APN>internet.vodafone.pt</APN>
+          <UserId>vodafone</UserId>
+          <Password>vodafone</Password>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>vodafone P</NetworkName>
+        <Editable>no</Editable>
+        <ProfileName>Vodafone Net2</ProfileName>
+        <URL>http://www.vodafone.pt</URL>
+        <Auth>none</Auth>
+        <Protocol>http</Protocol>
+        <MTUSize>1500</MTUSize>
+        <PSparam>
+          <APN>net2.vodafone.pt</APN>
+        </PSparam>
+      </Profile>
+    </Connections>
+  </Settings>
+</CustomerData>

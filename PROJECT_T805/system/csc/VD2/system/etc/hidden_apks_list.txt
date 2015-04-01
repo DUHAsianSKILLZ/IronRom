@@ -1,0 +1,6 @@
+/hidden/app/Amazon_Kindle_4.7.0.156.apk
+/hidden/app/amazonmp3-3.0.6-3002610-02-06-2014-signed-zipaligned.apk
+/hidden/app/Cloud-2.3.6_569.apk
+/hidden/app/ebaymobile_signed_2.8.2.1.apk
+/hidden/app/MeinVodafoneApp3.3.apk
+/hidden/app/mobiletv_tablet-vodafone-release-signed.apk

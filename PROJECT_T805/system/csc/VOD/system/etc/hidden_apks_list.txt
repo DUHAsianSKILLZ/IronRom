@@ -1,0 +1,2 @@
+/hidden/app/Amazon_Kindle_4.7.0.156.apk
+/hidden/app/ebaymobile_signed_2.8.2.1.apk
