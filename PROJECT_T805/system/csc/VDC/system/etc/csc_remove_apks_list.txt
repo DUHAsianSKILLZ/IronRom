@@ -1,3 +1,0 @@
-/system/app/DropboxOOBE/DropboxOOBE.apk
-/system/app/SwisscomApps_V1.0.1_release_signed/SwisscomApps_V1.0.1_release_signed.apk
-/system/priv-app/Discover-3.0.13GA_AndroidVFSigned_zipaligned/Discover-3.0.13GA_AndroidVFSigned_zipaligned.apk

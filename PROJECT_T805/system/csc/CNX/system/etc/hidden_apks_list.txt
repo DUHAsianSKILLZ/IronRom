@@ -1,5 +1,0 @@
-/hidden/app/Amazon_Kindle_4.7.0.156.apk
-/hidden/app/CinemagiaTablet_v1.3_vodafone.apk
-/hidden/app/Cloud-2.3.6_569.apk
-/hidden/app/SeeNowHD-Preinstall-VODAFONE-3.0.2.apk
-/hidden/app/Zonga_2.4.0_release_vodafone.apk

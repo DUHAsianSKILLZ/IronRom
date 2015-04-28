@@ -138,7 +138,7 @@ dot11agduphrpo=0x0
 dot11agduplrpo=0x0
 
 #phycal_tempdelta=255
-#changes periodic calibration for the temperature 
+#changes periodic calibration for the temperature
 phycal_tempdelta=25
 temps_period=15
 temps_hysteresis=15

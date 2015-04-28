@@ -1,7 +1,0 @@
-<SamsungMobileLanguage>   <Country>USA</Country>   <CountryISO>US</CountryISO>   <SalesCode>XAR</SalesCode>
-   <LanguageSet>          <Display>
-          en_US;en_GB;en_CA;es_US;es_ES;zh_HK;zh_CN;fr_CA;fr_FR;ko_KR;          </Display>          <Input>
-                <SupportList></SupportList>                <EnableList></EnableList>
-          </Input>
-   </LanguageSet>
-</SamsungMobileLanguage>

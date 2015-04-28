@@ -365,6 +365,8 @@ WaitBeforeCiev KEY_BDADDR="00:0e:9f:*"
 WaitBeforeCiev KEY_BDADDR="00:23:3d:*"
 /* Volkswagen GTi BT 4196 */
 WaitBeforeCiev KEY_BDADDR="e0:75:0a:*"
+/* Toyota Prius*/
+WaitBeforeCiev KEY_BDADDR="9c:df:03:*"
 
 /* RD45 car kit */
 NoDelayCIEVRINGinCarkit KEY_BDADDR="00:54:af:*"
