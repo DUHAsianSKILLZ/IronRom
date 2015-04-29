@@ -6,8 +6,8 @@
 /system/app/Evernote/Evernote.apk
 /system/app/SamsungAppsWidgetTablet_BannerStyle_10/SamsungAppsWidgetTablet_BannerStyle_10.apk
 /system/app/Music2/Music2.apk
-/system/app/Maps/Maps.apk
 /system/app/SBrowser_3.0.38/SBrowser_3.0.38.apk
+/system/app/Maps/Maps.apk
 /system/app/BBW/BBW.apk
 /system/app/Chrome/Chrome.apk
 /system/app/LegacyInCallUI/LegacyInCallUI.apk
@@ -47,8 +47,8 @@
 /system/app/AssistantMenu2_tablet/AssistantMenu2_tablet.apk
 /system/app/UniversalMDMClient/UniversalMDMClient.apk
 /system/app/EmergencyModeService/EmergencyModeService.apk
-/system/app/SafetyInformation/SafetyInformation.apk
 /system/app/SecurityLogAgent/SecurityLogAgent.apk
+/system/app/SafetyInformation/SafetyInformation.apk
 /system/app/CoolEUKor/CoolEUKor.apk
 /system/app/WebViewGoogle/WebViewGoogle.apk
 /system/app/RoseEUKor/RoseEUKor.apk
@@ -108,8 +108,8 @@
 /system/app/SamsungCameraFilter/SamsungCameraFilter.apk
 /system/app/MDMApp/MDMApp.apk
 /system/app/FilterInstaller/FilterInstaller.apk
-/system/app/minimode-res/minimode-res.apk
 /system/app/WebManual/WebManual.apk
+/system/app/minimode-res/minimode-res.apk
 /system/app/SecurityProviderSEC/SecurityProviderSEC.apk
 /system/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk
 /system/app/ANTPlusPlugins/ANTPlusPlugins.apk

@@ -1,3 +1,0 @@
-hr_HR-ak-cur.lite.res	9a7b3ade4cb441c537482f5fd803ad81	502123
-hr_HR.lang	fec32fc270cc51b6794390a136aecb66	4125
-hr_HR-lk-text.lite.res	38e46a7ac226bd89a19673c38f76f645	3949940
