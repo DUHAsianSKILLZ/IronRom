@@ -1,7 +1,7 @@
 <SamsungMobileLanguage>
-   <Country>Hong Kong</Country>
-   <CountryISO>HK</CountryISO>
-   <SalesCode>TGY</SalesCode>
+   <Country>United Kingdom</Country>
+   <CountryISO>GB</CountryISO>
+   <SalesCode>BTC</SalesCode>
    <LanguageSet>
           <Display>
 	zh_CN;zh_HK;zh_TW;
