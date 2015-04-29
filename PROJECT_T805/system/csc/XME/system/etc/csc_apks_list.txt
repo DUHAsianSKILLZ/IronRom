@@ -1,0 +1,2 @@
+/system/app/GalaxyLife_STUB_GooglePlay_v2_0_3_1_en/GalaxyLife_STUB_GooglePlay_v2_0_3_1_en.apk
+/system/app/line-preload-shortcut/line-preload-shortcut.apk

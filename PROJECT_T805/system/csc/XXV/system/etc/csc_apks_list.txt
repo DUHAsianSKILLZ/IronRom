@@ -1,0 +1,3 @@
+/system/app/140529_QuaTangGalaxy_StubApp/140529_QuaTangGalaxy_StubApp.apk
+/system/app/line-preload-shortcut/line-preload-shortcut.apk
+/system/app/VOVMapStub/VOVMapStub.apk

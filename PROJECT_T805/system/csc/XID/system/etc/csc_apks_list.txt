@@ -1,0 +1,2 @@
+/system/app/line-preload-shortcut/line-preload-shortcut.apk
+/system/app/SGift_stub/SGift_stub.apk

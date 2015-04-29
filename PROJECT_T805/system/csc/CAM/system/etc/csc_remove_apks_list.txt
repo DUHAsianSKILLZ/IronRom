@@ -1,0 +1,15 @@
+/system/app/140529_QuaTangGalaxy_StubApp/140529_QuaTangGalaxy_StubApp.apk
+/system/app/GalaxyGift_stub_version/GalaxyGift_stub_version.apk
+/system/app/GalaxyLife_STUB_GooglePlay_v2_0_3_1_en/GalaxyLife_STUB_GooglePlay_v2_0_3_1_en.apk
+/system/app/GalaxyReward_16022015/GalaxyReward_16022015.apk
+/system/app/gcash-android-test-2.0.6_109_4thBuild/gcash-android-test-2.0.6_109_4thBuild.apk
+/system/app/line-preload-shortcut/line-preload-shortcut.apk
+/system/app/MySingtel_3.5.1/MySingtel_3.5.1.apk
+/system/app/OperaMini/OperaMini.apk
+/system/app/postpaid/postpaid.apk
+/system/app/PowerAPP-Smart-Production-031114/PowerAPP-Smart-Production-031114.apk
+/system/app/SGift_stub/SGift_stub.apk
+/system/app/suntap/suntap.apk
+/system/app/VOVMapStub/VOVMapStub.apk
+/system/priv-app/DT_Ignite_version_1.6.935_02062015_nl/DT_Ignite_version_1.6.935_02062015_nl.apk
+/system/priv-app/Ignite-Singtel_1.7.102_release_nl_64bit/Ignite-Singtel_1.7.102_release_nl_64bit.apk

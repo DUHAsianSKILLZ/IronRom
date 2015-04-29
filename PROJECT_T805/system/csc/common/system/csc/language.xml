@@ -1,0 +1,12 @@
+<SamsungMobileLanguage>
+   <Country>SINGAPORE</Country>
+   <CountryISO>sg</CountryISO>
+   <SalesCode>XSP</SalesCode>
+   <LanguageSet>
+          <Display>en_GB;en_US;en_PH;zh_CN;vi_VN;th_TH;in_ID;ms_MY;ko_KR;lo_LA;km_KH;my_MM;my_ZG;tl_PH;</Display>
+          <Input>
+                <SupportList>en_GB;en_US;vi;th;id;ms;ko;zh_CN;km;lo;my_ZW;tl_PH;</SupportList>
+                <EnableList></EnableList>
+          </Input>
+   </LanguageSet>
+</SamsungMobileLanguage>

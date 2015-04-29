@@ -1,0 +1,3 @@
+/system/app/gcash-android-test-2.0.6_109_4thBuild/gcash-android-test-2.0.6_109_4thBuild.apk
+/system/app/line-preload-shortcut/line-preload-shortcut.apk
+/system/priv-app/DT_Ignite_version_1.6.935_02062015_nl/DT_Ignite_version_1.6.935_02062015_nl.apk

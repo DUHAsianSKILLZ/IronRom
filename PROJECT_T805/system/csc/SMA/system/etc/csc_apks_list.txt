@@ -1,0 +1,3 @@
+/system/app/line-preload-shortcut/line-preload-shortcut.apk
+/system/app/OperaMini/OperaMini.apk
+/system/app/PowerAPP-Smart-Production-031114/PowerAPP-Smart-Production-031114.apk
