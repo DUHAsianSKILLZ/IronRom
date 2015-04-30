@@ -2,10 +2,10 @@
 <CustomerData>
   <GeneralInfo>
     <CSCEdition>ED0004</CSCEdition>
-    <Country>SINGAPORE</Country>
-    <CountryISO>SG</CountryISO>
-    <Region>SEA</Region>
-    <SalesCode>XSP</SalesCode>
+    <Country>United Kingdom</Country>
+    <CountryISO>GB</CountryISO>
+    <Region>MT</Region>
+    <SalesCode>AUT</SalesCode>
     <NbNetworkInfo>9</NbNetworkInfo>
     <NetworkInfo>
       <MCCMNC>52503</MCCMNC>

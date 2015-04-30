@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SamsungMobileFeauture>
   <Version>ED0002</Version>
-  <Country>HONG KONG</Country>
-  <CountryISO>HK</CountryISO>
-  <SalesCode>TGY</SalesCode>
+  <Country>United Kingdom</Country>
+  <CountryISO>MT</CountryISO>
+  <SalesCode>SWC</SalesCode>
   <FeatureSet>
-	<CscFeature_Clock_ReplaceNameTaiwanWithTaipei>TRUE</CscFeature_Clock_ReplaceNameTaiwanWithTaipei>
+    <CscFeature_Clock_ReplaceNameTaiwanWithTaipei>TRUE</CscFeature_Clock_ReplaceNameTaiwanWithTaipei>
     <CscFeature_Contact_ANRConfig>0</CscFeature_Contact_ANRConfig>
     <CscFeature_Contact_EnableStrokeSortList>FALSE</CscFeature_Contact_EnableStrokeSortList>
     <CscFeature_Contact_EnableBPMFSortList>FALSE</CscFeature_Contact_EnableBPMFSortList>
@@ -37,6 +37,7 @@
     <CscFeature_Web_SetHomepageURL>http://content.samsung.com/mobile/hk</CscFeature_Web_SetHomepageURL>
     <CscFeature_SyncML_DefaultLocalConfig>CHN,cn,460</CscFeature_SyncML_DefaultLocalConfig>
     <CscFeature_Common_ConfigEmergencyModePackages>com.samsung.inputmethod</CscFeature_Common_ConfigEmergencyModePackages>
-	<CscFeature_Web_EnableDesktopSiteAsDefault>TRUE</CscFeature_Web_EnableDesktopSiteAsDefault>
+    <CscFeature_Web_EnableDesktopSiteAsDefault>TRUE</CscFeature_Web_EnableDesktopSiteAsDefault>
+    <CscFeature_Wifi_CountryCodeDefaultFromCsc>TRUE</CscFeature_Wifi_CountryCodeDefaultFromCsc>
   </FeatureSet>
 </SamsungMobileFeauture>

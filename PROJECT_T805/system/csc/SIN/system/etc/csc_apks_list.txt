@@ -1,3 +1,0 @@
-/system/app/line-preload-shortcut/line-preload-shortcut.apk
-/system/app/MySingtel_3.5.1/MySingtel_3.5.1.apk
-/system/priv-app/Ignite-Singtel_1.7.102_release_nl_64bit/Ignite-Singtel_1.7.102_release_nl_64bit.apk

@@ -1,3 +1,0 @@
-/system/app/line-preload-shortcut/line-preload-shortcut.apk
-/system/app/postpaid/postpaid.apk
-/system/app/suntap/suntap.apk

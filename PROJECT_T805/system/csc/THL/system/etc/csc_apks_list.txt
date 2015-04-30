@@ -1,3 +1,0 @@
-/system/app/GalaxyGift_stub_version/GalaxyGift_stub_version.apk
-/system/app/GalaxyReward_16022015/GalaxyReward_16022015.apk
-/system/app/line-preload-shortcut/line-preload-shortcut.apk

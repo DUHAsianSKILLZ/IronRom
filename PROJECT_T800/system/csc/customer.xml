@@ -3,15 +3,15 @@
   <GeneralInfo>
     <CSCEdition>ED0002</CSCEdition>
     <Country>United Kingdom</Country>
-    <CountryISO>MT</CountryISO>
+    <CountryISO>GB</CountryISO>
     <Region>MT</Region>
-    <SalesCode>SWC</SalesCode>
+    <SalesCode>AUT</SalesCode>
   </GeneralInfo>
   <Settings>
     <Main>
       <Phone>
-        <DefLanguage>english</DefLanguage>
-        <DefLanguageNoSIM>english</DefLanguageNoSIM>
+        <DefLanguage>en_GB</DefLanguage>
+        <DefLanguageNoSIM>en_GB</DefLanguageNoSIM>
         <DateTimeFormat>
           <DateFormat>ddmmyyyy</DateFormat>
           <TimeFormat>24h</TimeFormat>
@@ -33,7 +33,7 @@
         <URL>http://www.google.com</URL>
       </Bookmark>
       <eManual>
-        <URL>http://www.samsung.com/m-manual/uk</URL>
+        <URL>http://www.samsung.com/m-manual/common</URL>
       </eManual>
     </Browser>
   </Settings>
